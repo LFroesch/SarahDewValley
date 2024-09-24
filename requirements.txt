@@ -1,0 +1,36 @@
+pygame==2.6.0
+pip install -r requirements.txt
+
+# ----------------------------------------------
+# per boot / edit load:
+
+# boot venv
+# source venv/bin/activate from SarahDewValley
+
+# -> Go into Code/
+# cd Code/
+
+# Run Program to test
+# python3 main.py
+
+# ----------------------------------------------
+
+# for new games {PORT TO BASE_GAME_FILES}
+
+# install / validate pip with:
+# sudo apt install python3-pip
+
+# install venv with:
+# python3 -m venv venv
+# activate venv?
+
+# Requirements.txt
+# set up to install pygame version in requirements.txt with:
+# pip install -r requirements.txt
+
+# Git Section
+# also git init + create .gitignore file
+# create settings.py for player/window/game/etc variables
+# make sure any bg files are in same folder as the file they run in
+
+# ----------------------------------------------

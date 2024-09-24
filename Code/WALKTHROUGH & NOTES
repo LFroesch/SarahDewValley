@@ -1,0 +1,3 @@
+#step: animating player
+#inside self.animations dictionary we have to define the directions of the dictionary with:
+#STATUS
