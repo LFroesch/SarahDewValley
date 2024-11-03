@@ -13,8 +13,8 @@ class Overlay():
         #use this path to import overlay images
         self.tools_surf = {tool: pygame.image.load(f'{overlay_path}{tool}.png').convert_alpha() for tool in player.tools} #WHY PLAYER <----
         self.seeds_surf = {tool: pygame.image.load(f'{overlay_path}{tool}.png').convert_alpha() for tool in player.seeds}
-        print(self.tools_surf)
-        print(self.seeds_surf)
+        #print(self.tools_surf)
+        #print(self.seeds_surf)
     
     def display(self):
         
